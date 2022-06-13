@@ -1,13 +1,13 @@
 # ey
-https://raw.githubusercontent.com/Krvishwesh54/Kumar-Vishwesh/main/README.md
+https://raw.githubusercontent.com/ey/main/README.md
 <!-- CONTACT Section Starts -->
 ### CONTACT
 
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/elena-yap-iamenergy) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -18,7 +18,8 @@ https://raw.githubusercontent.com/Krvishwesh54/Kumar-Vishwesh/main/README.md
 
 <!-- Add your details -->
 
-I am 
+I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
@@ -35,8 +36,8 @@ I am
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
-ROLE: 
-UNIT: 
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
@@ -45,8 +46,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### Bachelor of Accountancy, National University of Singapore
-
+##### LNCT Bhopal
+Engineering Graduate 2010-14, First Division
 
 <!-- EDUCATION Section Ends -->
 
@@ -60,7 +61,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- Add your details -->
 
 #### Classification based projects
-!
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
@@ -81,5 +83,5 @@ Regression is a supervised learning technique which helps in finding the correla
 Machine Learning by Columbia University
 
 ##### Achievements
-Coming soon!
+Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
